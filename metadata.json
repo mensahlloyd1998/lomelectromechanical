@@ -1,0 +1,6 @@
+{
+  "name": "LOM ElectroMechanical Services",
+  "description": "Ghana-UK Building Services Engineering: Mechanical, Electrical, Plumbing and MEP Consultancy to British Standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
